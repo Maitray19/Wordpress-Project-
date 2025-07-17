@@ -22,7 +22,7 @@ The theme includes the following:
 The theme is currently live and hosted via Hostinger.
 
 **Preview the deployed theme here:**  
-[https://your-preview-link.com](https://your-preview-link.com)
+https://mypratyusha.org/
 
 ## ⚙️ How to Use
 
